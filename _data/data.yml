@@ -25,7 +25,7 @@ sidebar:
         - idiom: English
           level: TOEIC 955
 
-    #interests:
+    interests:
       title: Interests
       info:
         - item: Climbing
@@ -49,24 +49,34 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Expert en Ingénierie Informatique
-        university: EPSI BORDEAUX
-        time: 2018 - 2020
-      - degree: Administrateur systèmes, réseaux et bases de données
-        university: EPSI BORDEAUX
-        time: 2017 - 2018
-      - degree: BTS Services informatiques aux organisations
-        university: Lycée BAHUET, Brive la Gaillarde
-        time: 2015 - 2017 
-      - degree: BAC S
-        university: Lycée d'Arsonval, Brive la Gaillarde
-        time: 2009
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: TSH Pôle Technique, Centre Hospitalier de Brive
-        time: 2021 - Present
+      - role: Lead Developer
+        time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -103,7 +113,7 @@ experiences:
             - Bullet point
             - Bullet point
 
-#certifications:
+certifications:
       title: Certifications
       list:
         - name: CV Builder
@@ -144,7 +154,7 @@ experiences:
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
 
-#projects:
+projects:
     title: Projects
     intro: >
       You can list your side projects in this
@@ -171,7 +181,7 @@ experiences:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#oss:
+oss:
     title: OSS Contributions
     intro: >
       You can list your open source software contributions in this
@@ -190,7 +200,7 @@ experiences:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#publications:
+publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
