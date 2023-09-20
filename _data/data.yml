@@ -69,9 +69,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: TSH
+        time: 2021 - Present
+        company: Centre Hospitalier de Brive
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -82,30 +82,58 @@ experiences:
           error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
           architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Gestion du poste client / Installation et configuration d'un MDT
+            - Masterisation des applications
+            - Migration vers une nouvelle infrastructure WIFI
+            - Scripting / Refactoring powershell
+            - Cartographies physiques et topologiques
+            - Télémedecine avec M365
+            - Exploitation réseau
+            - Helpdesk N2
+            - Astreintes
+            - Rédactions de documentations
+      - role: Consultant technique
+        time: 2020 - 2021
+        company: TRSb
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Consultant technique en régie pour le compte de l'ASP à Limoges dans 
+          le cadre d'un projet de gestion des actifs.
+            - Faire un état des lieux du parc d'actif
+            - Plans d'action de correction des écarts
+            - Mise en place d'un GLPI
+            - Rédaction de documentations
+      - role: Alternant consultant technique supervision
+        time: 2018 - 2020
+        company: Maincare Solutions, Cestas
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Mise en place d’une architecture n tier pour une plateforme de supervision Zabbix
+            - Déploiement de la supervision chez les clients
+            - Développement de sondes et de templates de supervision Zabbix
+            - Scripting bash
+            - MCO serveurs CentOS 7
+            - MCO et optimisation de serveurs MariaDB
+            - Grafana
+            - Helpdesk N2/N3
+            - Rédaction de documentations
+      - role: Alternant administrateur systèmes et réseaux
+        time: 2017 - 2018
+        company: Photonis, Brive la Gaillarde
+        details: |
+            - Helpdesk N1/N2
+            - Gestion de parc
+            - Masterisation / déploiement de postes clients avec MDT
+            - Scripting powershell
+            - Portail captif pour wifi visiteur
+      - role: Stagiaire 
+        time: 2015 - 2017
+        company: Centre Hospitalier de Brive
+        details: |
+            - Helpdesk N1
+            - Masterisation / déploiement de postes clients avec MDT
+      - role: Cuisinier 
+        time: 2009 - 2015
+        company: Divers
+        details: |
 
 certifications:
       title: Certifications
