@@ -53,17 +53,18 @@ education:
         university: EPSI Bordeaux
         time: 2018 - 2020
         details: |
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Administrateur systèmes, réseaux et bases de données
+        university: EPSI Bordeaux
+        time: 2017 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: BTS Services informatiques aux organisations
+        university: Lycée BAHUET Brive la Gaillarde
+        time: 2015 - 2017
+        details: |
+      - degree: Bac S
+        university: Lycée D'ARSONVAL
+        time: 2015 - 2017
+        details: |
 
 experiences:
     title: Experiences
