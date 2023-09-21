@@ -14,8 +14,7 @@ sidebar:
 
     # Sidebar links
     email: sauliere.paul@gmail.com
-    # phone: +33 6 86 60 81 33
-    phone: hide\(phone\: \= "+33 6 86 60 81 33"\)
+    phone: +33 6 86 60 81 33
     website: cv.paulsauliere.tk #do not add http://
     github: Brune24
     pdf: http://www.africau.edu/images/default/sample.pdf
@@ -35,6 +34,8 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+      hide(button_text = "Solution")
+      hide("Click here for a hint")
 education:
     title: Education
     info:
