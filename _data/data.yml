@@ -60,17 +60,17 @@ experiences:
         details: |
           Fiche de poste missions et projets
           Pôle technique
-            - Gestion du poste client / Installation et configuration d'un MDT
+            - Gestion des postes de travail des utilisateurs, y compris l'installation et la configuration de Microsoft Deployment Toolkit (MDT)
             - Masterisation des applications en client lourd
-            - Migration vers une nouvelle infrastructure WIFI
-            - Scripting / Refactoring powershell
-            - Cartographies physiques et topologiques
-            - Télémedecine avec M365
-            - Intégration d'une solution all-in-one de visioconférence pour les salles de réunion
+            - Pilotage de la migration vers une nouvelle infrastructure Wi-Fi
+            - Scripting powershell / Refactoring
+            - Réalisation de cartographies physiques et topologiques
+            - Mise en place de solutions de télémédecine avec Microsoft 365
+            - Intégration d'une solution tout-en-un de visioconférence pour les salles de réunion
             - Exploitation système et réseau
             - Helpdesk N2
-            - Astreintes
-            - Rédactions de documentations
+            - Participation aux astreintes
+            - Rédactions de documentations techniques et utilisateurs
       - role: Consultant technique
         time: 2020 - 2021
         company: TRSb
