@@ -58,19 +58,20 @@ experiences:
         time: Septembre 2021 - Present
         company: Centre Hospitalier de Brive
         details: |
-          Fiche de poste missions et projets
-          Pôle technique
-            - Gestion des postes de travail des utilisateurs, y compris l'installation et la configuration de Microsoft Deployment Toolkit (MDT)
+          Intégré au pôle technique mes principales missions sont les suivantes
+            - Masterisation du poste de travail via Microsoft Deployment Toolkit (MDT)
             - Masterisation des applications en client lourd
-            - Pilotage de la migration vers une nouvelle infrastructure Wi-Fi
             - Scripting powershell / Refactoring
+            - Migration vers une nouvelle infrastructure Wi-Fi
             - Réalisation de cartographies physiques et topologiques
-            - Mise en place de solutions de télémédecine avec Microsoft 365
+            - Mise en place d'une solution de télémédecine avec Microsoft 365
             - Intégration d'une solution tout-en-un de visioconférence pour les salles de réunion
+            - Mise en place de l'impression sécurisée et ajout de fonctionnalités à l'impression directe
+            - Délégation et suivi de tâches avec des prestaires
             - Exploitation système et réseau
             - Helpdesk N2
-            - Participation aux astreintes
             - Rédactions de documentations techniques et utilisateurs
+            - Participation aux astreintes
       - role: Consultant technique
         time: 2020 - 2021
         company: TRSb
@@ -78,7 +79,7 @@ experiences:
           Consultant technique en régie pour le compte de l'ASP à Limoges dans 
           le cadre d'un projet de gestion des actifs.
             - Faire un état des lieux du parc d'actif
-            - Plans d'action de correction des écarts
+            - Rédaction de plans d'action de correction des écarts
             - Mise en place d'un GLPI
             - Rédaction de documentations
       - role: Alternant consultant technique supervision
