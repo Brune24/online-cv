@@ -28,7 +28,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Avec 5 ans d'expérience à mon actif, je m'épanouis pleinement dans un SIH. 
+      Avec 7 ans d'expérience à mon actif, je m'épanouis pleinement dans un SIH. 
       Mon profil technique est accompagné d'une réelle appétence pour la réalisation et la résolution de problèmes. 
       Je suis un touche-à-tout curieux, doté d'une bonne capacité d'adaptation et d'apprentissage.      
 education:
@@ -55,7 +55,13 @@ experiences:
     title: Experiences
     info:
       - role: TSH
-        time: Septembre 2021 - Present
+        time: Janvier 2024 - Présent
+        company: Centre Hospitalier de Gourdon
+        details: |
+          Intégré au pôle technique mes principales missions sont les suivantes :
+            - Masterisation du poste de travail via Microsoft Deployment Toolkit (MDT)
+      - role: TSH
+        time: Septembre 2021 - Janvier 2024
         company: Centre Hospitalier de Brive
         details: |
           Intégré au pôle technique mes principales missions sont les suivantes :
@@ -78,15 +84,15 @@ experiences:
         details: |
           Consultant technique en régie pour le compte de l'ASP à Limoges dans 
           le cadre d'un projet de gestion des actifs.
-            - Faire un état des lieux du parc d'actif
-            - Rédaction de plans d'action de correction des écarts
+            - Faire un état des lieux du parc d'actifs
+            - Rédaction de plans d'actions de correction des écarts
             - Mise en place d'un GLPI
             - Rédaction de documentations
       - role: Alternant consultant technique supervision
         time: 2018 - 2020
         company: Maincare Solutions, Cestas
         details: |
-            - Mise en place d’une architecture n tier pour une plateforme de supervision Zabbix
+            - Mise en place d’une architecture N-Tier pour une plateforme de supervision Zabbix
             - Déploiement de la supervision chez les clients
             - Développement de sondes et de templates de supervision Zabbix
             - Scripting bash
