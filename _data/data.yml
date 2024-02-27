@@ -15,9 +15,9 @@ sidebar:
     # Sidebar links
     email: sauliere.paul@gmail.com
     phone: +33 6 86 60 81 33
-    website: cv.paulsauliere.tk #do not add http://
+    website: brune24.github.io/online-cv/ #do not add http://
     github: Brune24
-    pdf: https://cv.paulsauliere.tk/cv-paulsauliere-tk-.pdf
+    pdf: https://brune24.github.io/online-cv/cv-paulsauliere-tk-.pdf
 
     languages:
       title: Languages
@@ -55,14 +55,14 @@ experiences:
     title: Experiences
     info:
       - role: TSH
-        time: Janvier 2024 - Présent
+        time: Février 2024 - Présent
         company: Centre Hospitalier de Gourdon
         details: |
-          SI du GHT du lot pour un établissement parti :
-            - Inventaire
-            - Cartographies
+          TSH dans du SI du GHT lot pour un établissement parti :
+            - Inventaire des actifs matériels et immatériels
+            - Mise à jour de l'infrastructure réseau (remplacement de switchs, déploiement, rationalisation et hardening de l'infrastructure WiFi)
+            - Audit de l'AD on premise
             - Support utilisateurs
-            - WiFi
       - role: TSH
         time: Septembre 2021 - Janvier 2024
         company: Centre Hospitalier de Brive
