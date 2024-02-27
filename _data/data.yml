@@ -62,7 +62,7 @@ experiences:
             - Inventaire des actifs matériels et immatériels
             - Mise à jour de l'infrastructure réseau (remplacement de switchs, déploiement, rationalisation et hardening de l'infrastructure WiFi)
             - Audit de l'AD on premise
-            - Support utilisateurs
+            - Support N1/N2
       - role: TSH
         time: Septembre 2021 - Janvier 2024
         company: Centre Hospitalier de Brive
@@ -78,9 +78,8 @@ experiences:
             - Mise en place de l'impression sécurisée et ajout de fonctionnalités à l'impression directe
             - Délégation et suivi de tâches avec des prestaires
             - Exploitation système et réseau
-            - Helpdesk N2
+            - Helpdesk N2, Participation aux astreintes
             - Rédaction de documentations techniques et utilisateurs
-            - Participation aux astreintes
       - role: Consultant technique
         time: 2020 - 2021
         company: TRSb
@@ -99,8 +98,7 @@ experiences:
             - Déploiement de la supervision chez les clients
             - Développement de sondes et de templates de supervision Zabbix
             - Scripting bash
-            - MCO serveurs CentOS 7
-            - MCO et optimisation de bases MySQL
+            - MCO serveurs CentOS 7, optimisation de serveurs MySQL
             - Grafana
             - Helpdesk N2/N3
             - Rédaction de documentations
