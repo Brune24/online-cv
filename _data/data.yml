@@ -97,9 +97,8 @@ experiences:
             - Mise en place d’une architecture N-Tier pour une plateforme de supervision Zabbix
             - Déploiement de la supervision chez les clients
             - Développement de sondes et de templates de supervision Zabbix
-            - Scripting bash
+            - Scripting bash, Grafana
             - MCO serveurs CentOS 7, optimisation de serveurs MySQL
-            - Grafana
             - Helpdesk N2/N3
             - Rédaction de documentations
       - role: Alternant administrateur systèmes et réseaux
@@ -121,7 +120,6 @@ experiences:
         time: 2009 - 2015
         company: Divers
         details: |
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
