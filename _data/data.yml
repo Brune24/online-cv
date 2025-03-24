@@ -28,9 +28,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Avec 7 ans d'expérience à mon actif, je m'épanouis pleinement dans un SIH. 
-      Mon profil technique est accompagné d'une réelle appétence pour la réalisation et la résolution de problèmes. 
-      Je suis un touche-à-tout curieux, doté d'une bonne capacité d'adaptation et d'apprentissage.      
+      Technicien expérimenté avec 4 ans d'expérience dans un système d'information hospitalier, je souhaite évoluer vers un rôle d'ingénieur pour participer activement à la transformation du SIH.
+      Je suis animé par la volonté d'impulser et de conduire des modernisations, à la fois techniques et organisationnelles, dans un contexte de risques cyber fort et d'exigences de convergence.  
 education:
     title: Education
     info:
@@ -55,29 +54,22 @@ experiences:
     title: Experiences
     info:
       - role: TSH
-        time: Février 2024 - Présent
-        company: Centre Hospitalier de Gourdon
-        details: |
-          Intégré au SI du GHT lot pour un établissement parti :
-            - Inventaire des actifs matériels et immatériels, Audit de l'AD on premise
-            - Mise à jour de l'infrastructure réseau (remplacement de switchs, déploiement, rationalisation et hardening de l'infrastructure WiFi)
-            - Support N1/N2
-      - role: TSH
-        time: Septembre 2021 - Janvier 2024
+        time: Septembre 2021 - Présent
         company: Centre Hospitalier de Brive
         details: |
-          Intégré au pôle technique mes principales missions sont les suivantes :
+          Intégré au pôle technique mes principales réalisations et missions sont les suivantes :
+            - Migration infrastructure DHCP/DNS Novell vers Windows
+            - Segmentation du réseau et migration des équipements dans des vlan
             - Masterisation du poste de travail via Microsoft Deployment Toolkit (MDT)
             - Masterisation des applications en client lourd
-            - Scripting powershell / Refactoring
             - Migration vers une nouvelle infrastructure Wi-Fi
             - Réalisation de cartographies physiques et topologiques
-            - Mise en place d'une solution de télémédecine avec Microsoft 365
+            - Intégration d'une solution de télémédecine avec Microsoft 365
             - Intégration d'une solution tout-en-un de visioconférence pour les salles de réunion
             - Mise en place de l'impression sécurisée et ajout de fonctionnalités à l'impression directe
-            - Délégation et suivi de tâches avec des prestaires
-            - Exploitation système et réseau
-            - Helpdesk N2, Participation aux astreintes
+            - Scripting powershell / Refactoring
+            - Exploitation
+            - Helpdesk N2 et astreintes
             - Rédaction de documentations techniques et utilisateurs
       - role: Consultant technique
         time: 2020 - 2021
